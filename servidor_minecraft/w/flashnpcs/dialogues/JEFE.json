@@ -1,0 +1,1 @@
+{"entries":[{"children":[{"children":[{"children":[],"response":"","function":"acceptQuest::JEFE","name":"newDialogueNode","text":"CLARO YO TE LAS TRAIGO"}],"response":"claro que si traeme 3 diamantes","function":"","name":"hello","text":"BUENOS DIAS tienes alguna mision pra mi? @npc."}],"response":"","function":"","name":"init","text":"BUENOS DIAS @p!"}]}

@@ -1,0 +1,215 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+data-version: 3|2|2586
+'2':
+  uniqueId: be2fafd0-c13d-4265-b5b8-e1add73c9848
+  world: w
+  x: -74
+  y: 15
+  z: 223
+  yaw: 340.1787
+  type: admin
+  name: armadero
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:weaponsmith
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: CGM_PISTOL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAA/+NiYGBm4HTMzc13zi/NK2FgYBBgAAD704+OFAAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: GOLD_INGOT
+        amount: 5
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+        amount: 32
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: CGM_BASIC_BULLET
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+        amount: 16
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: GUNPOWDER
+        amount: 28
+  snapshots: []
+'3':
+  uniqueId: e4e14c9e-0a3a-40be-bb95-d668db0f6516
+  world: w
+  x: -23
+  y: 14
+  z: 199
+  yaw: 196.76534
+  type: admin
+  name: BARTENDER
+  object:
+    type: vindicator
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: UNDEAD_SOULSOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":"SOPA
+            DE SESOS DE ZOMBIE"}],"text":""}'
+          lore:
+          - '{"extra":[{"text":"NO VENENOSO"}],"text":""}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_NUGGET
+        amount: 19
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COOKED_MUTTON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COOKED_PORKCHOP
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COOKED_RABBIT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: UNDEAD_GLOWINGSOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"SOPA
+            DE RANA"}],"text":""}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+        amount: 5
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: UNDEAD_WREFFLESOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"SOPA
+            DE DELFIN"}],"text":""}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+        amount: 3
+  snapshots: []
+'4':
+  uniqueId: f7525daf-edbd-49e2-9090-634d3bce8513
+  world: w
+  x: -27
+  y: 18
+  z: 207
+  yaw: 265.35803
+  type: admin
+  name: ENDERMAN
+  object:
+    type: enderman
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '{"extra":[{"bold":true,"text":"VEVIDA NO IDENTIFICADA"}],"text":""}'
+          lore:
+          - '{"extra":[{"text":"es cerveza"}],"text":""}'
+          potion-type: minecraft:mundane
+          custom-effects:
+          - ==: PotionEffect
+            effect: 9
+            duration: 200
+            amplifier: 1
+            ambient: false
+            has-particles: true
+            has-icon: true
+          - ==: PotionEffect
+            effect: 15
+            duration: 200
+            amplifier: 0
+            ambient: false
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '{"text":"Coca Comprimida en Bebida"}'
+          potion-type_Mg: minecraft:empty
+          custom-effects:
+          - ==: PotionEffect
+            effect: 9
+            duration: 200
+            amplifier: 0
+            ambient: false
+            has-particles: true
+            has-icon: true
+          - ==: PotionEffect
+            effect: 1
+            duration: 100
+            amplifier: 0
+            ambient: false
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+        amount: 2
+  snapshots: []

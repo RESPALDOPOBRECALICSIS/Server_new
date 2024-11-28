@@ -1,0 +1,12 @@
+location: w:-85.153:16.789:194.581
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&lspawn'
+    height: 0.3
+  actions: {}

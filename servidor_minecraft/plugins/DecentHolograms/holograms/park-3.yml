@@ -1,0 +1,12 @@
+location: w:-70.161:150.117:140.289
+enabled: true
+display-range: 5
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&b&lcorre hacia la pared y salta'
+    height: 0.3
+  actions: {}

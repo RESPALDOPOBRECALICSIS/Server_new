@@ -1,0 +1,12 @@
+location: w:-63.287:157.376:122.189
+enabled: true
+display-range: 5
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&b&lpuedes trepar vallas y rejas'
+    height: 0.3
+  actions: {}

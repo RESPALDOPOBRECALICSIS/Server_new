@@ -1,0 +1,1 @@
+{"entries":[{"children":[{"children":[{"children":[],"response":"","function":"acceptQuest::DIAMANTES","name":"newDialogueNode","text":"quieres 3 diamantes?"}],"response":"","function":"","name":"hello","text":"tienes alguna mision para mi? @npc."}],"response":"","function":"","name":"init","text":"buenos dias @p!"}]}

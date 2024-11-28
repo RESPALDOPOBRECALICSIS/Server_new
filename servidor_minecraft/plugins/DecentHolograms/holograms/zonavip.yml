@@ -1,0 +1,12 @@
+location: w:-23.500:21.000:203.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&4zona vip'
+    height: 0.3
+  actions: {}

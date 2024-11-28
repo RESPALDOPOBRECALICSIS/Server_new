@@ -1,0 +1,1 @@
+{"startingLives":3,"defaultMaxLives":5,"lifeBuyPrice":10000.0,"lifeSellPrice":5000.0,"autosaveInterval":1,"autosaveUnit":"MINUTES","allowBuyingLives":false,"allowSellingLives":false,"allowGivingLives":false,"allowTotemOfUndying":true,"spectateWhenNoMoreLives":true,"loseLifeOnPvpOnly":false,"scoreboardDisplaySlot":"PLAYER_LIST"}

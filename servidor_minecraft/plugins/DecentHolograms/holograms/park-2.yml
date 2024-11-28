@@ -1,0 +1,12 @@
+location: w:-64.300:156.246:139.528
+enabled: true
+display-range: 5
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&b&lmanten click derecho (pegado a la pared)'
+    height: 0.3
+  actions: {}

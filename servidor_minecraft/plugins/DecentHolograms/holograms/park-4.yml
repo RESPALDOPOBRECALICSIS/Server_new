@@ -1,0 +1,14 @@
+location: w:-65.884:151.000:131.300
+enabled: true
+display-range: 5
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&b&lmientras mantienes el click'
+    height: 0.3
+  - content: '&b&lmira hacia atras y salta'
+    height: 0.3
+  actions: {}

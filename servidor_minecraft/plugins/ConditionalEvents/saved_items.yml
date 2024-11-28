@@ -1,0 +1,10 @@
+items:
+  vacuna:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2586
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"Vacuna"}],"text":""}'
+      custom-model-data: 1

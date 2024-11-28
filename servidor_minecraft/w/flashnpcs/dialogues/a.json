@@ -1,0 +1,1 @@
+{"entries":[{"children":[{"children":[{"children":[],"response":"traeme los siguientes items","function":"acceptQuest::primeramision","name":"accept","text":"claro que mision?"}],"response":"tengo una mision para ti","function":"","name":"hello","text":"Hola @npc."}],"response":"","function":"","name":"init","text":"Hi @p!"}]}

@@ -1,0 +1,14 @@
+location: w:-68.641:155.235:152.135
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&5zona de practica'
+    height: 0.3
+  - content: '&a<#ANIM:scroll> Parkour Parkour </#ANIM>'
+    height: 0.3
+  actions: {}

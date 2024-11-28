@@ -1,0 +1,12 @@
+location: w:-72.053:16.707:210.700
+enabled: true
+display-range: 30
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: <#ANIM:wave:&2,&a>&lTIENDA</#ANIM>
+    height: 1.0
+  actions: {}
